@@ -1,0 +1,7 @@
+streamlit>=1.28
+transformers==4.40.2
+tensorflow==2.12.0
+pandas
+numpy
+scikit-learn
+joblib
